@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/emt_tecksang/ros_base/devel -DCMAKE_INSTALL_PREFIX=/home/emt_tecksang/ros_base/install -G Unix Makefiles
